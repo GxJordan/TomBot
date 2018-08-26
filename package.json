@@ -1,0 +1,30 @@
+{
+  "name": "tombot-3",
+  "version": "0.0.1",
+  "description": "TomBot3",
+  "main": "tombot.js",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "feedparser": "^2.2.9",
+    "html-to-text": "^4.0.0",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "ping"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElaTheDeveloper/TomBot.git"
+  },
+  "keywords": [
+    "discord",
+    "bot"
+  ],
+  "author": "ElaTheDeveloper",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ElaTheDeveloper/TomBot/issues"
+  },
+  "homepage": "https://github.com/ElaTheDeveloper/TomBot#readme"
+}
